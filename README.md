@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Implementation of all algorithms in java.
+Implementation of all Sorting algorithms in java.
